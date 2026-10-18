@@ -1,0 +1,7 @@
+{
+  "_readme": "hw_id → имя → active. hw_id смотри в логах софта у чела (строка 'hw_id: ...') или 'python3 license.py'. allow_all=true разрешает всем (режим выдачи).",
+  "allow_all": true,
+  "keys": {
+    "example0000000000000000": {"name": "пример-чел", "active": false}
+  }
+}
